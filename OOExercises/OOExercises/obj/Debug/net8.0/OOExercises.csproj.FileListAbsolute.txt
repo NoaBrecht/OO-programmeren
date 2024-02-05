@@ -1,0 +1,15 @@
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\bin\Debug\net8.0\OOExercises.exe
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\bin\Debug\net8.0\OOExercises.deps.json
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\bin\Debug\net8.0\OOExercises.runtimeconfig.json
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\bin\Debug\net8.0\OOExercises.dll
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\bin\Debug\net8.0\OOExercises.pdb
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.AssemblyInfoInputs.cache
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.AssemblyInfo.cs
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.csproj.CoreCompileInputs.cache
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.sourcelink.json
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.dll
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\refint\OOExercises.dll
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.pdb
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\OOExercises.genruntimeconfig.cache
+C:\Users\vande\Documents\GitHub\OO-programmeren\OOExercises\OOExercises\obj\Debug\net8.0\ref\OOExercises.dll
