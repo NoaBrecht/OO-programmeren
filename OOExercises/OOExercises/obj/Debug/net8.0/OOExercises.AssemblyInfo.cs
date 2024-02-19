@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOExercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97572f3e6ff41f3fd29c186df82292b125c274e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e66974844759acf18d1743591b704df0fbe88d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOExercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOExercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

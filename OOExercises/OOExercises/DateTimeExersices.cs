@@ -42,7 +42,11 @@ namespace OOExercises
         }
         public static void H10_Birthday()
         {
+            Console.Clear();
+            Console.WriteLine("Geef je geboortedatum in");
+            DateTime date = Convert.ToDateTime(Console.ReadLine());
 
         }
+
     }
 }
